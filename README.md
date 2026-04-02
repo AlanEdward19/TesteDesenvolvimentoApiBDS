@@ -253,4 +253,14 @@ Explique no seu README:
 
 ---
 
+## 🔗 String de Conexão (Exemplo)
+
+Server=localhost,1433;
+Database=TestDb;
+User Id=sa;
+Password=YourStrong!Passw0rd;
+TrustServerCertificate=True;
+
+---
+
 Boa sorte! 🚀
